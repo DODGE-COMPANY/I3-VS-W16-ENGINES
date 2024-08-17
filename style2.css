@@ -1,0 +1,49 @@
+body {
+    font-family:"Impact";
+    background-image: url("https://i.pinimg.com/originals/1c/91/79/1c9179364b51851ae6f674f86e955f38.jpg");
+    background-repeat: ano-repet;
+  background-position: center center;
+  background-attachment: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+h1{
+    font-size: 60px;
+    text-align: center;
+    text-shadow: 7px 5px white;
+}
+
+.img1{
+    width: 200px;
+    height: 140px;
+    border: 2px solid rgb(0, 0, 0);
+    background-color: #c2c2c2;
+}
+
+p {
+    border: 1px solid rgb(0, 0, 0);
+    color: #c2c2c2;
+    background-color: rgb(54, 54, 54);
+    border-radius: 15px;
+    padding: 50px;
+    position: relative;
+    top: 0px;
+    padding-left: 300px;
+}
+
+p img{
+    position:absolute;
+    left: 5%;
+    top: 5%;
+}
+
+a {
+    border: 1px solid rgb(0, 0, 0);
+    color: #d6d4d4;
+    background-color: rgb(54, 54, 54);
+    border-radius: 15px;
+    padding: 5px;
+}
